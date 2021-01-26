@@ -8,12 +8,13 @@
 </head>
 <body>
     <h1 id="out"></h1>
-    <button id="generate">Generate Usename</button>
+    <button id="generate">Generate new username</button>
         <script>
         function writeNickname(){
             document.getElementById("out").innerHTML = nickname()
         }
         document.querySelector("button").onclick = writeNickname
+        document.getElementById("out").innerHTML = nickname()
     </script>
 </body>
 </html>
