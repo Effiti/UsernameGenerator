@@ -54,6 +54,10 @@ const adjectives = [
   "Accountable",
   "Influential",
   "Decisive",
+  "german",
+  "bad",
+  "french,
+  "russian",
 ];
 const nouns = [
   "connection",
@@ -121,6 +125,9 @@ const nouns = [
   "Mia",
   "Olivia",
   "Penelope",
+  "developer",
+  "Admin",
+  "User",
 ];
 
 function nickname() {
