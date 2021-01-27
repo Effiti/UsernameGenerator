@@ -56,7 +56,7 @@ const adjectives = [
   "Decisive",
   "german",
   "bad",
-  "french,
+  "french",
   "russian",
 ];
 const nouns = [
